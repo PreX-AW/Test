@@ -19,4 +19,9 @@ fslkdfjk'lasjf
 asdflksndfjaldfj
 sadkfjlksk
 dfj
->>>>>>> b1
+>>>>>>> 
+# wget https://archive.ubuntukylin.com/ubuntukylin/pool/partner/weixin_2.1.4_amd64.deb
+
+
+# sudo dpkg -i weixin_2.1.4_amd64.deb
+
